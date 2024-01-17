@@ -1,6 +1,6 @@
 # exams-system
 
-Your app name is a Flutter-based mobile application designed to facilitate exam creation, 
+Flutter-based mobile application designed to facilitate exam creation, 
 question management, and student assessment. Whether you're an educator or an organization, 
 this app provides an intuitive platform to create exams, add questions, 
 and efficiently evaluate student performance.
