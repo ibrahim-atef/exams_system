@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576844038294",
+    "project_id": "exam-cfd12",
+    "storage_bucket": "exam-cfd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576844038294:android:36302b612a81bec6b1c2b7",
+        "android_client_info": {
+          "package_name": "com.example.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAty8Ug3WrMvsVCY7H7fcZEpufS-fUUnmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
